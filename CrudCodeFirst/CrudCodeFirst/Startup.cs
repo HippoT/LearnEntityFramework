@@ -11,6 +11,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using CrudCodeFirst.Data;
 using CrudCodeFirst.Services;
+using System.Diagnostics;
 
 namespace CrudCodeFirst
 {
